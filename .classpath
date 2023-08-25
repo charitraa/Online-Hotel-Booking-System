@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jcalendar-1.4/lib/jgoodies-common-1.2.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jcalendar-1.4/lib/junit-4.6.jar"/>
 	<classpathentry kind="lib" path="Libs/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="src" path="Hotel-Booking-Application/src/views"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
