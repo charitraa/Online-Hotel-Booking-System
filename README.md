@@ -2,6 +2,8 @@
 
 Welcome to the Online Hotel Booking System repository. This project is a Java Swing-based desktop application that allows users to search for hotels, view room details, and make reservations.
 
+
+
 ## Contents
 
 - User registration and login
